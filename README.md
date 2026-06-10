@@ -16,3 +16,12 @@ An AI-based web application that predicts personality using Natural Language Pro
 - NLP
 - HTML
 - CSS
+## Team Members
+
+- Team Lead: Talluri A V L Manasa
+- Team Member: Shaik Mymoon
+
+### My Contributions
+- Developed Course Page UI
+- Worked on Dashboard Design
+- Tested Login Functionality
